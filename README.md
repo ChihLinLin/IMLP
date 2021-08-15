@@ -7,3 +7,5 @@ NTU train IMLP course
 
 ##[HW02-Unit02_Data Analysis Package](https://github.com/ChihLinLin/IMLP/tree/main/Unit02)
 
+##[HW03-Unit03_ML Basic](https://github.com/ChihLinLin/IMLP/tree/main/Unit03)
+
