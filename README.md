@@ -9,4 +9,6 @@ NTU train IMLP course
 
 ##[HW03-Unit03_ML Basic](https://github.com/ChihLinLin/IMLP/tree/main/Unit03)
 
-##[HW04-Unit03_Linear Regression](https://github.com/ChihLinLin/IMLP/tree/main/Unit04)
+##[HW04-Unit04_Linear Regression](https://github.com/ChihLinLin/IMLP/tree/main/Unit04)
+
+##[HW05-Unit05_Supervised Learning](https://github.com/ChihLinLin/IMLP/tree/main/Unit05)
