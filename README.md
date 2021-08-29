@@ -14,3 +14,5 @@ NTU train IMLP course
 ##[HW05-Unit05_Supervised Learning Part 1](https://github.com/ChihLinLin/IMLP/tree/main/Unit05)
   
 ##[HW05-Unit05_Supervised Learning Part 2](https://github.com/ChihLinLin/IMLP/tree/main/Unit05_2)
+
+##[HW06-Unit06_Ensemble learning](https://github.com/ChihLinLin/IMLP/tree/main/Unit06)
